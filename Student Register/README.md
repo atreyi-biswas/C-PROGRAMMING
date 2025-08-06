@@ -1,8 +1,8 @@
 # 🧾 Assignment 1 – Student Register using Arrays  
 **Course**: Data Structure Lab (CS 2172)  
 **Institute**: IIEST Shibpur  
-**Language**: C 💻  
-**Duration**: ⏳ 1 week  
+**Language**: C 
+**Duration**: 1 week  
 
 ---
 
